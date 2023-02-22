@@ -6,4 +6,4 @@
   <p>Players have three rolls to try and get as many of the same number as possible. After each roll, they can choose to keep any dice they want and re-roll the rest.</p>
   <p>The game ends after three rolls, and the player with the highest score wins.</p>
   <h2>Technologies Used</h2>
-  <p>Tenzies was created using HTML, CSS, and JavaScript.</p>
+  <p>Tenzies was created using React, Javascript and Tailwindcss.</p>
